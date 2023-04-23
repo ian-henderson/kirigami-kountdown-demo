@@ -10,4 +10,4 @@
 
 ## Running the app:
 
-`./build/bin/helloworld`
+`./build/bin/kountdown`
