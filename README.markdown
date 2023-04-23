@@ -2,6 +2,10 @@
 
 [Tutorial](https://develop.kde.org/docs/getting-started/kirigami)
 
+## Dependencies
+
+- `cmake`
+
 ## Compiling the app:
 
 `cmake -B build/`
